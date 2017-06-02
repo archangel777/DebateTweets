@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0931d3-a40f-4f5a-8802-628b09522b39" name="Default" comment="Added spark jars and Main class.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_10_6.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$5$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$5$$anonfun$apply$2.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$1.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$10.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$11.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$12.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$13.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$14.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$15.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$2.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$3.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$4.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$5.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$6.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$7.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$8.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$9.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$hashTagsAlongTheDay$1.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$hashTagsAlongTheDay$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$hashTagsAlongTheDay$2.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$hashTagsAlongTheDay$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$hashTagsAlongTheDay$3.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$$anonfun$hashTagsAlongTheDay$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/DebateTweets.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DebateTweets/MyUtils$.class" afterPath="$PROJECT_DIR$/out/production/DebateTweets/MyUtils$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DebateTweets.iml" afterPath="$PROJECT_DIR$/DebateTweets.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DebateTweets.scala" afterPath="$PROJECT_DIR$/src/DebateTweets.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,27 +37,74 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DebateTweets$DebateTweets.coverage" NAME="DebateTweets Coverage Results" MODIFIED="1496423696702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DebateTweets.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DebateTweets.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DebateTweets.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="275">
+              <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
               <folding>
-                <element signature="e#0#33#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#2365#2407#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-              <folding />
+            <state relative-caret-position="2822">
+              <caret line="166" column="32" lean-forward="false" selection-start-line="166" selection-start-column="32" selection-end-line="166" selection-end-column="32" />
+              <folding>
+                <marker date="1496433429149" expanded="true" signature="53803:53827" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="53803:53844" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="53803:53862" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="53803:53875" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="53803:53890" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="53925:56488" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="53938:56473" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="53992:54287" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54011:54272" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54074:54252" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54114:54218" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54135:54196" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54337:54664" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54356:54649" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54451:54629" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54491:54595" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54512:54573" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54715:55034" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54734:55019" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54821:54999" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54861:54965" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="54882:54943" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55077:55383" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55096:55368" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55170:55348" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55210:55314" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55231:55292" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55434:55788" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55453:55773" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55536:55753" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55576:55719" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55597:55697" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55823:56088" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55842:56073" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55875:56053" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55915:56019" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="55936:55997" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="56140:56459" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="56159:56444" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="56246:56424" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="56286:56390" ph="..." />
+                <marker date="1496433429149" expanded="true" signature="56307:56368" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,6 +152,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/src/DebateTweets.scala" />
       </list>
     </option>
@@ -94,7 +164,6 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -111,8 +180,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -163,28 +230,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DebateTweets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DebateTweets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../UFC/spark-2.1.1-bin-hadoop2.7/jars" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
@@ -505,18 +560,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.020504732" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3911672" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.020504732" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7996845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.9100946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -534,6 +588,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -559,37 +614,59 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#2365#2407#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DebateTweets.scala">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2414">
+          <caret line="142" column="32" lean-forward="false" selection-start-line="142" selection-start-column="32" selection-end-line="142" selection-end-column="32" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DebateTweets.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DebateTweets.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <marker date="1496433429149" expanded="true" signature="53803:53827" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53803:53844" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53803:53862" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53803:53875" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53803:53890" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53925:56488" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53938:56473" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53992:54287" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54011:54272" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54074:54252" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54114:54218" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54135:54196" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54337:54664" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54356:54649" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54451:54629" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54491:54595" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54512:54573" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54715:55034" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54734:55019" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54821:54999" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54861:54965" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54882:54943" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55077:55383" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55096:55368" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55170:55348" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55210:55314" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55231:55292" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55434:55788" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55453:55773" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55536:55753" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55576:55719" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55597:55697" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55823:56088" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55842:56073" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55875:56053" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55915:56019" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55936:55997" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="56140:56459" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="56159:56444" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="56246:56424" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="56286:56390" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="56307:56368" ph="..." />
           </folding>
         </state>
       </provider>
@@ -620,19 +697,138 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DebateTweets.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#2365#2407#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DebateTweets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#2365#2407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DebateTweets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#2365#2407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DebateTweets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#2365#2407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DebateTweets.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="166" column="32" lean-forward="false" selection-start-line="166" selection-start-column="32" selection-end-line="166" selection-end-column="32" />
+          <folding>
+            <marker date="1496433429149" expanded="true" signature="53803:53827" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53803:53844" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53803:53862" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53803:53875" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53803:53890" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53925:56488" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53938:56473" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="53992:54287" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54011:54272" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54074:54252" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54114:54218" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54135:54196" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54337:54664" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54356:54649" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54451:54629" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54491:54595" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54512:54573" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54715:55034" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54734:55019" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54821:54999" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54861:54965" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="54882:54943" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55077:55383" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55096:55368" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55170:55348" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55210:55314" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55231:55292" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55434:55788" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55453:55773" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55536:55753" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55576:55719" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55597:55697" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55823:56088" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55842:56073" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55875:56053" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55915:56019" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="55936:55997" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="56140:56459" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="56159:56444" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="56246:56424" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="56286:56390" ph="..." />
+            <marker date="1496433429149" expanded="true" signature="56307:56368" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
+          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DebateTweets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#2365#2407#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
